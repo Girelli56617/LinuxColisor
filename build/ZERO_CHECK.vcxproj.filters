@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ice_t\source\repos\GlutProjectColisions\build\CMakeFiles\15ff8b7bdd137d54f5df0abc693f23be\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EFAFF07E-DBCC-3A73-989C-EBD12DE5D411}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

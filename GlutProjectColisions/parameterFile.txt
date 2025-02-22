@@ -1,0 +1,5 @@
+RC: 1.0,
+Width: 1920,
+Height: 1080, 
+Nspheres: 50, 
+Mode: 1,

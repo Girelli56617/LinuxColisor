@@ -1,0 +1,3 @@
+C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/GlutProjectColisions.dir
+C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/ZERO_CHECK.dir

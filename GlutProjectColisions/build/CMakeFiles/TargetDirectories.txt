@@ -1,0 +1,3 @@
+/home/ice_t/GlutProjectColisions/GlutProjectColisions/build/CMakeFiles/GlutProjectColisions.dir
+/home/ice_t/GlutProjectColisions/GlutProjectColisions/build/CMakeFiles/edit_cache.dir
+/home/ice_t/GlutProjectColisions/GlutProjectColisions/build/CMakeFiles/rebuild_cache.dir

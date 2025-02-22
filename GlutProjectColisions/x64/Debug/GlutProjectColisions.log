@@ -1,0 +1,98 @@
+﻿  commands.c
+  drawStuff.c
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(62,32): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(63,30): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(72,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(73,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(74,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(76,18): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\commands.c(77,18): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(4,23): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(14,22): warning C4133: 'função': tipos incompatíveis - de 'double [3]' para 'float *'
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(86,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(87,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(89,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(89,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(89,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(91,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(92,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(94,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(94,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(94,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(96,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(97,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(99,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(99,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(99,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(101,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(102,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(104,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(104,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(104,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(62,33): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(63,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(70,38): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(71,38): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(72,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(73,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(74,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(75,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(61,17): warning C4101: 'z': variável local não referenciada
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(130,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(131,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(132,23): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(132,32): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(132,41): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(133,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(133,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(133,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(135,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(136,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(137,23): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(137,32): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(137,41): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(138,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(138,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(138,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(140,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(141,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(142,23): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(142,32): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(142,41): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(143,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(143,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(143,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(145,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(146,21): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(147,23): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(147,32): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(147,41): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(148,26): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(148,58): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(148,91): warning C4244: 'função': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(113,33): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(114,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(119,38): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(120,38): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(121,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(122,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(123,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(124,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(112,17): warning C4101: 'z': variável local não referenciada
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(172,24): warning C4028: parâmetro formal 1 diferente da declaração
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(174,74): warning C4047: 'função': 'int' difere em níveis de indireção de 'void *'
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(174,74): warning C4024: 'stbi_load': tipos diferentes para parâmetro formal e real 5
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\drawStuff.c(174,14): warning C4133: 'inicializando': tipos incompatíveis - de 'stbi_uc *' para 'stbi_us *'
+  main.c
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\main.c(15,2): warning C4013: 'glewInit' indefinido; assumindo extern retornando int
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\main.c(40,19): warning C4113: 'void (__cdecl *)(unsigned char)' difere em listas de parâmetro de 'void (__cdecl *)(unsigned char,int,int)'
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\main.c(46,18): warning C4113: 'void (__cdecl *)()' difere em listas de parâmetro de 'void (__cdecl *)(void)'
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\main.c(48,15): warning C4113: 'void (__cdecl *)()' difere em listas de parâmetro de 'void (__cdecl *)(void)'
+  physics.c
+  readFile.c
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\readFile.c(43,32): warning C4244: 'inicializando': conversão de '__int64' para 'int', possível perda de dados
+  renderStuff.c
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\renderStuff.c(107,30): warning C4305: 'função': truncamento de 'double' para 'GLfloat'
+  Gerando Código...
+C:\Users\ice_t\source\repos\GlutProjectColisions\GlutProjectColisions\readFile.c(64,1): warning C4715: 'readFile': nem todos os caminhos de controle retornam um valor
+  GlutProjectColisions.vcxproj -> C:\Users\ice_t\source\repos\GlutProjectColisions\x64\Debug\GlutProjectColisions.exe

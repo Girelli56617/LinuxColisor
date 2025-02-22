@@ -1,0 +1,336 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      The target system is: Linux -  - x86_64
+      The host system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: x86_64-linux-gnu-gcc 
+      Build flags: -march=x86-64;-mtune=generic;-march=x86-64;-mtune=generic
+      Id flags:  
+      
+      The output was:
+      0
+      VersÆo do MSBuild 17.9.8+b34f75857 para .NET Framework
+      Compila‡Æo de 21/02/2025 18:14:41 iniciada.
+      
+      Projeto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdC\\CompilerIdC.vcxproj" no n¢ 1 (destinos padrÆo).
+      PrepareForBuild:
+        Criando o diret¢rio "Debug\\".
+        A sa¡da estruturada est  habilitada. A formata‡Æo do diagn¢stico do compilador refletir  a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
+        Criando o diret¢rio "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Criando "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+        Tocando "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Excluindo o arquivo "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Tocando "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Projeto de compila‡Æo pronto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdC\\CompilerIdC.vcxproj" (destinos padrÆo).
+      
+      Compila‡Æo com ˆxito.
+          0 Aviso(s)
+          0 Erro(s)
+      
+      Tempo Decorrido 00:00:00.77
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/3.29.0-rc1/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: x86_64-linux-gnu-g++ 
+      Build flags: -march=x86-64;-mtune=generic;-march=x86-64;-mtune=generic
+      Id flags:  
+      
+      The output was:
+      0
+      VersÆo do MSBuild 17.9.8+b34f75857 para .NET Framework
+      Compila‡Æo de 21/02/2025 18:14:42 iniciada.
+      
+      Projeto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" no n¢ 1 (destinos padrÆo).
+      PrepareForBuild:
+        Criando o diret¢rio "Debug\\".
+        A sa¡da estruturada est  habilitada. A formata‡Æo do diagn¢stico do compilador refletir  a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
+        Criando o diret¢rio "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        Criando "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+        Tocando "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Excluindo o arquivo "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+        Tocando "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      Projeto de compila‡Æo pronto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\3.29.0-rc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (destinos padrÆo).
+      
+      Compila‡Æo com ˆxito.
+          0 Aviso(s)
+          0 Erro(s)
+      
+      Tempo Decorrido 00:00:00.79
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/3.29.0-rc1/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-jedhar"
+      binary: "C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-jedhar"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic"
+      CMAKE_C_FLAGS_DEBUG: ""
+      CMAKE_EXE_LINKER_FLAGS: " -static-libgcc -static-libstdc++ -static-libgcc -static-libstdc++"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-jedhar'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_71db2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        VersÆo do MSBuild 17.9.8+b34f75857 para .NET Framework
+        Compila‡Æo de 21/02/2025 18:14:43 iniciada.
+        
+        Projeto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj" no n¢ 1 (destinos padrÆo).
+        PrepareForBuild:
+          Criando o diret¢rio "cmTC_71db2.dir\\Debug\\".
+          A sa¡da estruturada est  habilitada. A formata‡Æo do diagn¢stico do compilador refletir  a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
+          Criando o diret¢rio "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\Debug\\".
+          Criando o diret¢rio "cmTC_71db2.dir\\Debug\\cmTC_71db2.tlog\\".
+        InitializeBuildStatus:
+          Criando "cmTC_71db2.dir\\Debug\\cmTC_71db2.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+          Tocando "cmTC_71db2.dir\\Debug\\cmTC_71db2.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_71db2.dir\\Debug\\\\" /Fd"cmTC_71db2.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ Optimizing Compiler VersÆo 19.39.33523 para x64
+          Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+          cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_71db2.dir\\Debug\\\\" /Fd"cmTC_71db2.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue  -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\Debug\\cmTC_71db2." /INCREMENTAL /ILK:"cmTC_71db2.dir\\Debug\\cmTC_71db2.ilk" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-jedhar/Debug/cmTC_71db2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\Debug\\cmTC_71db2.lib" /MACHINE:X64  -static-libgcc -static-libstdc++ -static-libgcc -static-libstdc++ cmTC_71db2.dir\\Debug\\CMakeCCompilerABI.obj
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          cmTC_71db2.vcxproj -> C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\Debug\\cmTC_71db2
+        FinalizeBuildStatus:
+          Excluindo o arquivo "cmTC_71db2.dir\\Debug\\cmTC_71db2.tlog\\unsuccessfulbuild".
+          Tocando "cmTC_71db2.dir\\Debug\\cmTC_71db2.tlog\\cmTC_71db2.lastbuildstate".
+        Projeto de compila‡Æo pronto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj" (destinos padrÆo).
+        
+        Compila‡Æo com ˆxito.
+        
+        "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj" (destino padrÆo) (1) ->
+        (ClCompile destino) -> 
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        
+        
+        "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj" (destino padrÆo) (1) ->
+        (Link destino) -> 
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-jedhar\\cmTC_71db2.vcxproj]
+        
+            8 Aviso(s)
+            0 Erro(s)
+        
+        Tempo Decorrido 00:00:00.70
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Running the C compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-ue66nr"
+      binary: "C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-ue66nr"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic"
+      CMAKE_CXX_FLAGS_DEBUG: ""
+      CMAKE_EXE_LINKER_FLAGS: " -static-libgcc -static-libstdc++ -static-libgcc -static-libstdc++"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-ue66nr'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f0046.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        VersÆo do MSBuild 17.9.8+b34f75857 para .NET Framework
+        Compila‡Æo de 21/02/2025 18:14:44 iniciada.
+        
+        Projeto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj" no n¢ 1 (destinos padrÆo).
+        PrepareForBuild:
+          Criando o diret¢rio "cmTC_f0046.dir\\Debug\\".
+          A sa¡da estruturada est  habilitada. A formata‡Æo do diagn¢stico do compilador refletir  a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
+          Criando o diret¢rio "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\Debug\\".
+          Criando o diret¢rio "cmTC_f0046.dir\\Debug\\cmTC_f0046.tlog\\".
+        InitializeBuildStatus:
+          Criando "cmTC_f0046.dir\\Debug\\cmTC_f0046.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+          Tocando "cmTC_f0046.dir\\Debug\\cmTC_f0046.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f0046.dir\\Debug\\\\" /Fd"cmTC_f0046.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue  -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ Optimizing Compiler VersÆo 19.39.33523 para x64
+          Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+          cl /c /W1 /WX- /diagnostics:column /O2 /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f0046.dir\\Debug\\\\" /Fd"cmTC_f0046.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue  -march=x86-64 -mtune=generic -march=x86-64 -mtune=generic "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\Debug\\cmTC_f0046." /INCREMENTAL /ILK:"cmTC_f0046.dir\\Debug\\cmTC_f0046.ilk" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/ice_t/source/repos/GlutProjectColisions/build/CMakeFiles/CMakeScratch/TryCompile-ue66nr/Debug/cmTC_f0046.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\Debug\\cmTC_f0046.lib" /MACHINE:X64  -static-libgcc -static-libstdc++ -static-libgcc -static-libstdc++ cmTC_f0046.dir\\Debug\\CMakeCXXCompilerABI.obj
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          cmTC_f0046.vcxproj -> C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\Debug\\cmTC_f0046
+        FinalizeBuildStatus:
+          Excluindo o arquivo "cmTC_f0046.dir\\Debug\\cmTC_f0046.tlog\\unsuccessfulbuild".
+          Tocando "cmTC_f0046.dir\\Debug\\cmTC_f0046.tlog\\cmTC_f0046.lastbuildstate".
+        Projeto de compila‡Æo pronto "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj" (destinos padrÆo).
+        
+        Compila‡Æo com ˆxito.
+        
+        "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj" (destino padrÆo) (1) ->
+        (ClCompile destino) -> 
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-march=x86-64' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          cl : linha de comando  warning D9002: ignorando op‡Æo desconhecida '-mtune=generic' [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        
+        
+        "C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj" (destino padrÆo) (1) ->
+        (Link destino) -> 
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libgcc'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+          LINK : warning LNK4044: op‡Æo nÆo reconhecida '/static-libstdc++'; ignorada [C:\\Users\\ice_t\\source\\repos\\GlutProjectColisions\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ue66nr\\cmTC_f0046.vcxproj]
+        
+            8 Aviso(s)
+            0 Erro(s)
+        
+        Tempo Decorrido 00:00:00.67
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+...
